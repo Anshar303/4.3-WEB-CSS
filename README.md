@@ -5,7 +5,7 @@
 
                          Nim 		: 312010308
 
-                     Langkah Langkah pembuatan “ WEB CSS “ dasar
+                       Langkah Langkah pembuatan “ WEB CSS “ dasar
 
 1.	Menyimpan file dengan kode HTML
 
