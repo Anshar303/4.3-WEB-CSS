@@ -8,7 +8,7 @@
                         Langkah Langkah pembuatan “ WEB CSS “ dasar
 
 
-    1.	Menyimpan file dengan kode HTML
+   1.	Menyimpan file dengan kode HTML
 
 ![image](https://user-images.githubusercontent.com/72779594/158395302-71ae9fd1-eaa4-4936-9ee0-18697bbb8a2f.png)
 
