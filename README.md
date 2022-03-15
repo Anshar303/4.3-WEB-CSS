@@ -12,9 +12,11 @@
 ![image](https://user-images.githubusercontent.com/72779594/158395302-71ae9fd1-eaa4-4936-9ee0-18697bbb8a2f.png)
 
 
+
     2.	Memanggil struktur HTML
 
  ![image](https://user-images.githubusercontent.com/72779594/158395788-40da41b5-b51e-4d0a-9bbb-218667725a8d.png)
+
 
 
     3.	Membuat document HTML nya
