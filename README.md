@@ -5,33 +5,34 @@
 
                          Nim 		: 312010308
 
-                       Langkah Langkah pembuatan “ WEB CSS “ dasar
+                        Langkah Langkah pembuatan “ WEB CSS “ dasar
 
-1.	Menyimpan file dengan kode HTML
+    1.	Menyimpan file dengan kode HTML
 
- 
- 
-
-2.	Memanggil struktur HTML
-
- 
-
-3.	Membuat document HTML nya
-
- 
+    ![image](https://user-images.githubusercontent.com/72779594/158395302-71ae9fd1-eaa4-4936-9ee0-18697bbb8a2f.png)
 
  
-Maka tampilan nya akan seperti ini
+
+    2.	Memanggil struktur HTML
 
  
 
-4.	Menambahkan CSS internal
+    3.	Membuat document HTML nya
+
+ 
+
+ 
+       Maka tampilan nya akan seperti ini
+
+ 
+
+    4.	Menambahkan CSS internal
 
  
 
  
 
-5.	Menambahkan Inline CSS ( mengatur gaya tulisan pada tag <p> )
+    5.	Menambahkan Inline CSS ( mengatur gaya tulisan pada tag <p> )
 
  
 
