@@ -1,9 +1,11 @@
 # 4.3-WEB-CSS
 
  
-Nama 		: Anshar Rahmawan
-Nim 		: 312010308
-Langkah Langkah pembuatan “ WEB CSS “ dasar
+                         Nama 		: Anshar Rahmawan
+
+                         Nim 		: 312010308
+
+              Langkah Langkah pembuatan “ WEB CSS “ dasar
 
 1.	Menyimpan file dengan kode HTML
 
