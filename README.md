@@ -19,10 +19,12 @@
 
     3.	Membuat document HTML nya
 
- 
+ ![image](https://user-images.githubusercontent.com/72779594/158395991-e9f6e5a8-145d-4619-86d7-e5e86aa9a350.png)
 
- 
+
        Maka tampilan nya akan seperti ini
+
+![image](https://user-images.githubusercontent.com/72779594/158396120-32c3b193-93a1-4744-a3c8-34798e0cf4af.png)
 
  
 
