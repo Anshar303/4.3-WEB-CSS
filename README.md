@@ -1,8 +1,8 @@
 # 4.3-WEB-CSS
 
-Nama 		: Anshar Rahmawan
+  Nama 		: Anshar Rahmawan
 
-Nim 		: 312010308
+  Nim 		: 312010308
 
 
 Langkah Langkah pembuatan “ WEB CSS “ dasar 
